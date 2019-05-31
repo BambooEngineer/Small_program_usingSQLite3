@@ -53,32 +53,4 @@ if(x == 0):
     conn.close() 
 
 
-
-
-
-
-
-
-    #if(x == 2):
-   # print("Question: If someone hits you, do you hit back?\n")
-    #i = input("User: ")
-    #x = x + 1
-    
-#if(x == 3):
- #   print("Question: Would you want to stop a cycle of violence?\n")
-  #  i = input("User: ")
-   # x = x + 1
-    
-#if(x == 4):
- #   print("Question: After watching the news, do you want to put more locks on your doors?\n")
-  #  i = input("User: ")
-   # x = x + x
-    
-#if(x == 5):
- #   print("Question: Do you live in fear?\n") 
-  #  i = input("User: ")
-   # x = 0 # Stops Test and accesses database for upload
-
-
-
       
